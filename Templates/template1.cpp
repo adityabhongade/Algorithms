@@ -1,6 +1,6 @@
 /*
 
-template1.cpp from 
+template1.cpp from https://github.com/adityabhongade/Algorithms
 by Aditya Bhongade - https://github.com/adityabhongade
 
 Description : Basic CP template for beginners.
